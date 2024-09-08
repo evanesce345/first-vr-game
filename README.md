@@ -7,5 +7,5 @@ https://assetstore.unity.com/packages/3d/environments/lowpoly-environment-nature
 
 https://assetstore.unity.com/packages/3d/props/weapons/free-cartoon-weapon-pack-mobile-vr-23956
 
-
-
+### NB
+*I screwed up the repo and I don't know how to fix it so all the project files are in the master branch for some reason.*
